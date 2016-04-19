@@ -9,6 +9,7 @@ D = []
 E = []
 F = []
 
+print "Durudurudud"
 print A[0]
 
 chave = raw_input('Digite a chave: ')
